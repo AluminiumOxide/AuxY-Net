@@ -1,7 +1,7 @@
 ### Since it is not very specification |  this project is for reference only for the time being
 ##### I propose a multi-head semantic segmentation network structure called AuxY-Net based on U-Net
 ##### his structure allows to achieve better performance in quantitative photoacoustic imaging with more robust 
-- # The detailed comparison information will be updated here after the madness, suffocation, nausea, and despair CNKI CHECK
+- \# The detailed comparison information will be updated here after the madness, suffocation, nausea, and despair CNKI CHECK
 
 ---
 An intermediate network structure called AuxU_Net built as prototype in the middle,
