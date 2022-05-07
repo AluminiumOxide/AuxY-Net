@@ -1,5 +1,5 @@
 ### Since it is not very specification |  this project is for reference only for the time being
-##### We propose a multi-head semantic segmentation network structure called AuxY-Net based on U-Net
+##### I propose a multi-head semantic segmentation network structure called AuxY-Net based on U-Net
 his structure allows U-Net to achieve better performance in quantitative photoacoustic imaging and is more robust
 
 ---
@@ -70,4 +70,4 @@ However, some parameters can still be displayed in advance,such as network profi
 
 I do not provide public datasets for now
 If you want to get in touch further, please send an email to [Inferno5415@outlook.com](inferno5415@outlook.com)
-Or visit my [personal website](www.allophane.com) for reference.
+Or visit my [personal website](http://allophane.com/) for reference.
